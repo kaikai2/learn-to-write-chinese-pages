@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec4874b8.chunk.css",
-    "main.js": "/static/js/main.0bb0b563.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.16d0157d.js",
-    "static/css/2.35013e12.chunk.css": "/static/css/2.35013e12.chunk.css",
-    "static/js/2.969168e8.chunk.js": "/static/js/2.969168e8.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.10ee997c434ae5b6617b56b133f7a2e3.js": "/precache-manifest.10ee997c434ae5b6617b56b133f7a2e3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.969168e8.chunk.js.LICENSE.txt": "/static/js/2.969168e8.chunk.js.LICENSE.txt"
+    "main.css": "/learn-to-write-chinese-pages/static/css/main.ec4874b8.chunk.css",
+    "main.js": "/learn-to-write-chinese-pages/static/js/main.9839c765.chunk.js",
+    "runtime-main.js": "/learn-to-write-chinese-pages/static/js/runtime-main.6b5681ae.js",
+    "static/css/2.35013e12.chunk.css": "/learn-to-write-chinese-pages/static/css/2.35013e12.chunk.css",
+    "static/js/2.969168e8.chunk.js": "/learn-to-write-chinese-pages/static/js/2.969168e8.chunk.js",
+    "index.html": "/learn-to-write-chinese-pages/index.html",
+    "precache-manifest.cd690df91e330ab8dbb844c31acda862.js": "/learn-to-write-chinese-pages/precache-manifest.cd690df91e330ab8dbb844c31acda862.js",
+    "service-worker.js": "/learn-to-write-chinese-pages/service-worker.js",
+    "static/js/2.969168e8.chunk.js.LICENSE.txt": "/learn-to-write-chinese-pages/static/js/2.969168e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.16d0157d.js",
+    "static/js/runtime-main.6b5681ae.js",
     "static/css/2.35013e12.chunk.css",
     "static/js/2.969168e8.chunk.js",
     "static/css/main.ec4874b8.chunk.css",
-    "static/js/main.0bb0b563.chunk.js"
+    "static/js/main.9839c765.chunk.js"
   ]
 }
