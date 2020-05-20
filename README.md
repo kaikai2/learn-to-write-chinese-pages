@@ -5,25 +5,24 @@
 * 字卡显示拼音
 * 语音提示
 * 生字的常用词词组提示
-* 语音命令
-** 测试页面选择生字状态下：“前”，“后”，“开始测试”
-** 测试页面认字过程中：“这个字是X”，“不知道”，“不认识”
+* 语音命令 (仅支持[部分浏览器](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#Browser_compatibility))
+    * 测试页面选择生字状态下：“前”，“后”，“开始测试”
+    * 测试页面认字过程中：“这个字是X”，“不知道”，“不认识”
 
 # 项目使用了下列开源软件库，特此表示感谢
-* annyang
-* bootstrap
-* chinese-lexicon
-* hanzi-writer
-* lodash
-* moment
-* pinyin
-* react 
-* react-bootstrap
-* react-dom
-* react-icons
-* react-redux
-* react-scripts
-* redux
+* [annyang](https://www.talater.com/annyang)
+* [bootstrap](https://getbootstrap.com/)
+* [chinese-lexicon](https://github.com/peterolson/chinese-lexicon#readme)
+* [hanzi-writer](https://hanziwriter.org/)
+* [lodash](https://lodash.com/)
+* [moment](https://momentjs.com/)
+* [pinyin](https://github.com/hotoo/pinyin)
+* [react](https://reactjs.org)
+* [react-bootstrap](https://react-bootstrap.github.io/)
+* [react-icons](https://react-icons.github.io/react-icons/)
+* [react-redux](https://react-redux.js.org/)
+* [react-scripts](https://github.com/facebook/create-react-app#readme)
+* [redux](https://redux.js.org/)
 
 感谢在开发过程中支持我的家人和朋友们
 
