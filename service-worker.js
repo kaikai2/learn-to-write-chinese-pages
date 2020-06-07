@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/learn-to-write-chinese-pages/precache-manifest.54e1790a739165eb646488e409036b2b.js"
+  "/learn-to-write-chinese-pages/precache-manifest.0c5966fc0bb6d546b691ed12b63e7e2c.js"
 );
 
 self.addEventListener('message', (event) => {

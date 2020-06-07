@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3a7d7b39e31123d21554d204dd4d49a",
+    "revision": "909cb8b9c83ba282a8009f930a488cac",
     "url": "/learn-to-write-chinese-pages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-to-write-chinese-pages/static/css/2.35013e12.chunk.css"
   },
   {
-    "revision": "ad0a1a3720e69b2ac70c",
+    "revision": "bca11131870376943305",
     "url": "/learn-to-write-chinese-pages/static/css/main.328d4541.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-to-write-chinese-pages/static/js/2.97d200df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad0a1a3720e69b2ac70c",
-    "url": "/learn-to-write-chinese-pages/static/js/main.d1974bfe.chunk.js"
+    "revision": "bca11131870376943305",
+    "url": "/learn-to-write-chinese-pages/static/js/main.123bf7fd.chunk.js"
   },
   {
     "revision": "1142fd50cc9e0947c819",
