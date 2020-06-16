@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/learn-to-write-chinese-pages/static/css/main.328d4541.chunk.css",
-    "main.js": "/learn-to-write-chinese-pages/static/js/main.56816164.chunk.js",
+    "main.js": "/learn-to-write-chinese-pages/static/js/main.d469d05a.chunk.js",
     "runtime-main.js": "/learn-to-write-chinese-pages/static/js/runtime-main.6b5681ae.js",
     "static/css/2.35013e12.chunk.css": "/learn-to-write-chinese-pages/static/css/2.35013e12.chunk.css",
     "static/js/2.2fa9f1db.chunk.js": "/learn-to-write-chinese-pages/static/js/2.2fa9f1db.chunk.js",
     "index.html": "/learn-to-write-chinese-pages/index.html",
-    "precache-manifest.83719d67f5a7fb4433dc5645351ee93c.js": "/learn-to-write-chinese-pages/precache-manifest.83719d67f5a7fb4433dc5645351ee93c.js",
+    "precache-manifest.0e9ca94900de9bb5349fdfe439362787.js": "/learn-to-write-chinese-pages/precache-manifest.0e9ca94900de9bb5349fdfe439362787.js",
     "service-worker.js": "/learn-to-write-chinese-pages/service-worker.js",
     "static/js/2.2fa9f1db.chunk.js.LICENSE.txt": "/learn-to-write-chinese-pages/static/js/2.2fa9f1db.chunk.js.LICENSE.txt"
   },
@@ -15,6 +15,6 @@
     "static/css/2.35013e12.chunk.css",
     "static/js/2.2fa9f1db.chunk.js",
     "static/css/main.328d4541.chunk.css",
-    "static/js/main.56816164.chunk.js"
+    "static/js/main.d469d05a.chunk.js"
   ]
 }
