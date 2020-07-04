@@ -29,3 +29,5 @@
 欢迎提出宝贵的意见和建议
 
 发现bug麻烦[告知](https://github.com/kaikai2/learn-to-write-chinese-pages/issues/new)
+
+<a href='https://ko-fi.com/K3K51UZ0C' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
