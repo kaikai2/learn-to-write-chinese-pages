@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/learn-to-write-chinese-pages/static/css/main.328d4541.chunk.css",
-    "main.js": "/learn-to-write-chinese-pages/static/js/main.669bad9f.chunk.js",
+    "main.js": "/learn-to-write-chinese-pages/static/js/main.5c9cf53d.chunk.js",
     "runtime-main.js": "/learn-to-write-chinese-pages/static/js/runtime-main.6b5681ae.js",
     "static/css/2.35013e12.chunk.css": "/learn-to-write-chinese-pages/static/css/2.35013e12.chunk.css",
-    "static/js/2.2fa9f1db.chunk.js": "/learn-to-write-chinese-pages/static/js/2.2fa9f1db.chunk.js",
+    "static/js/2.b6f6644e.chunk.js": "/learn-to-write-chinese-pages/static/js/2.b6f6644e.chunk.js",
     "index.html": "/learn-to-write-chinese-pages/index.html",
-    "precache-manifest.c7980462cb6e1b22cd3afacada8d9908.js": "/learn-to-write-chinese-pages/precache-manifest.c7980462cb6e1b22cd3afacada8d9908.js",
+    "precache-manifest.c224afda8f62324151e646c9b6d0bba2.js": "/learn-to-write-chinese-pages/precache-manifest.c224afda8f62324151e646c9b6d0bba2.js",
     "service-worker.js": "/learn-to-write-chinese-pages/service-worker.js",
-    "static/js/2.2fa9f1db.chunk.js.LICENSE.txt": "/learn-to-write-chinese-pages/static/js/2.2fa9f1db.chunk.js.LICENSE.txt"
+    "static/js/2.b6f6644e.chunk.js.LICENSE.txt": "/learn-to-write-chinese-pages/static/js/2.b6f6644e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b5681ae.js",
     "static/css/2.35013e12.chunk.css",
-    "static/js/2.2fa9f1db.chunk.js",
+    "static/js/2.b6f6644e.chunk.js",
     "static/css/main.328d4541.chunk.css",
-    "static/js/main.669bad9f.chunk.js"
+    "static/js/main.5c9cf53d.chunk.js"
   ]
 }
